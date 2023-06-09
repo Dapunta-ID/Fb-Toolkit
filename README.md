@@ -1,7 +1,7 @@
 # Fb-Toolkit
 ![img](https://github.com/jetsukii/fb-toolkit/blob/562a1a0728fa828639f92474548e3310b48fb7f9/user/20230609_130608.jpg)
 # Fitur
-- automatically add friends in bulk, automatically confirm friend requests in bulk, automatically send messages in bulk, automatically delete friends in bulk, and so on.
+- Automatically add friends in bulk, Automatically confirm friend requests in bulk, Automatically send messages in bulk, Automatically delete friends in bulk, And so on.
 # Cara Menjalankan
 - Install Package
 ```
